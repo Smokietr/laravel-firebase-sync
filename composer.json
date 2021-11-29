@@ -1,5 +1,5 @@
 {
-    "name": "mpociot/laravel-firebase-sync",
+    "name": "smokietr/laravel-firebase-sync",
     "license": "MIT",
     "description": "Synchronize your Eloquent models with a Firebase realtime database.",
     "keywords": [
@@ -10,8 +10,8 @@
     "homepage": "http://github.com/mpociot/laravel-firebase-sync",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "m.pociot@gmail.com"
+            "name": "Özgür Can Karagöz",
+            "email": "developer@chef.net"
         }
     ],
     "support": {
