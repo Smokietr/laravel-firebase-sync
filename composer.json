@@ -19,7 +19,7 @@
         "source": "https://github.com/mpociot/laravel-firebase-sync"
     },
     "require": {
-        "php": ">=7.3",
+        "php": ">=8.0.10",
         "illuminate/support": "~8.0",
         "ktamas77/firebase-php": "^2.2"
     },
